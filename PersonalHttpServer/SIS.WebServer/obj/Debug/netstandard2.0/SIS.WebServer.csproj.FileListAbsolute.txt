@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.WebServer\bin\Debug\netstandard2.0\SIS.WebServer.deps.json
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.WebServer\bin\Debug\netstandard2.0\SIS.WebServer.dll
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.WebServer\bin\Debug\netstandard2.0\SIS.WebServer.pdb
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.WebServer\obj\Debug\netstandard2.0\SIS.WebServer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.WebServer\obj\Debug\netstandard2.0\SIS.WebServer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.WebServer\obj\Debug\netstandard2.0\SIS.WebServer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.WebServer\obj\Debug\netstandard2.0\SIS.WebServer.AssemblyInfo.cs
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.WebServer\obj\Debug\netstandard2.0\SIS.WebServer.dll
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.WebServer\obj\Debug\netstandard2.0\SIS.WebServer.pdb
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.WebServer\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.WebServer\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.WebServer\obj\Debug\netstandard2.0\SIS.WebServer.csproj.CopyComplete

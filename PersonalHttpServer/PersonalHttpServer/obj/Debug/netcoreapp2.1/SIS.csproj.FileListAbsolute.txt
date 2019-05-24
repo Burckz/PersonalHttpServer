@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\PersonalHttpServer\bin\Debug\netcoreapp2.1\SIS.deps.json
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\PersonalHttpServer\bin\Debug\netcoreapp2.1\SIS.runtimeconfig.json
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\PersonalHttpServer\bin\Debug\netcoreapp2.1\SIS.runtimeconfig.dev.json
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\PersonalHttpServer\bin\Debug\netcoreapp2.1\SIS.dll
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\PersonalHttpServer\bin\Debug\netcoreapp2.1\SIS.pdb
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\PersonalHttpServer\obj\Debug\netcoreapp2.1\SIS.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\PersonalHttpServer\obj\Debug\netcoreapp2.1\SIS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\PersonalHttpServer\obj\Debug\netcoreapp2.1\SIS.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\PersonalHttpServer\obj\Debug\netcoreapp2.1\SIS.AssemblyInfo.cs
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\PersonalHttpServer\obj\Debug\netcoreapp2.1\SIS.dll
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\PersonalHttpServer\obj\Debug\netcoreapp2.1\SIS.pdb

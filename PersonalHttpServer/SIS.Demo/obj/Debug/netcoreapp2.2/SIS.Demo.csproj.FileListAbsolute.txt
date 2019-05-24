@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.Demo\bin\Debug\netcoreapp2.2\SIS.Demo.deps.json
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.Demo\bin\Debug\netcoreapp2.2\SIS.Demo.runtimeconfig.json
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.Demo\bin\Debug\netcoreapp2.2\SIS.Demo.runtimeconfig.dev.json
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.Demo\bin\Debug\netcoreapp2.2\SIS.Demo.dll
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.Demo\bin\Debug\netcoreapp2.2\SIS.Demo.pdb
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.Demo\bin\Debug\netcoreapp2.2\SIS.HTTP.dll
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.Demo\bin\Debug\netcoreapp2.2\SIS.WebServer.dll
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.Demo\bin\Debug\netcoreapp2.2\SIS.HTTP.pdb
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.Demo\bin\Debug\netcoreapp2.2\SIS.WebServer.pdb
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.Demo\obj\Debug\netcoreapp2.2\SIS.Demo.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.Demo\obj\Debug\netcoreapp2.2\SIS.Demo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.Demo\obj\Debug\netcoreapp2.2\SIS.Demo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.Demo\obj\Debug\netcoreapp2.2\SIS.Demo.AssemblyInfo.cs
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.Demo\obj\Debug\netcoreapp2.2\SIS.Demo.csproj.CopyComplete
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.Demo\obj\Debug\netcoreapp2.2\SIS.Demo.dll
+C:\Users\User\source\repos\HttpServer\PersonalHttpServer\PersonalHttpServer\SIS.Demo\obj\Debug\netcoreapp2.2\SIS.Demo.pdb
